@@ -18,4 +18,4 @@ Ton yhw?
 
  - asdcorp - Initial discovery
  - REDACTED - Finding AD HWID derivation routine
- - WitherOrNot - Implementation
+ - WitherOrNot - AD HWID Reverse Engineering, Implementation
