@@ -4,7 +4,7 @@ Enable [Active Directory-Based Activation](https://learn.microsoft.com/en-us/win
 
 ## How to use?
 
-[Download](https://github.com/WitherOrNot/chacha/archive/refs/heads/main.zip), extract all files, run `chacha.cmd`
+[Download](https://github.com/WitherOrNot/chacha/archive/refs/heads/main.zip), extract all files, run `chacha.cmd` as Administrator
 
 ## How does it work?
 
